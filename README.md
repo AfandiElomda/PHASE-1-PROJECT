@@ -1,1 +1,14 @@
-# PHASE-1-PROJECT
+# RANDOM JOKE GENERATOR
+
+## Description
+Returns randomly selected hilarious jokes.http://127.0.0.1:5500/
+
+## Setup
+Use api from https://icanhazdadjoke.com/api
+
+
+## Author Name
+Afandi Elomda
+
+## License
+ C653 Labs

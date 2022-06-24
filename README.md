@@ -1,7 +1,7 @@
 # RANDOM JOKE GENERATOR
 
 ## Description
-Returns randomly selected hilarious jokes.http://127.0.0.1:5501/. Every time you click the button or hover the joke text, a new random dad joke should be fetched from the API and displayed and the button text will change occasionally.
+Returns randomly selected hilarious jokes https://ae1235.github.io/PHASE-1-PROJECT/. Every time you click the button or hover the joke text, a new random dad joke should be fetched from the API and displayed and the button text will change occasionally.
 
 
 
